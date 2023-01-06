@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/maximum-ice-cream-bars/
 def maxIceCream(costs, coins):
     costs.sort()
     i = 0
